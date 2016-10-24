@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "allowJs": true,
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
